@@ -121,3 +121,9 @@ Proyecto realizado por Taller de Inventores 2015, representado por:
 
 -   kwendenarmo <kwendenarmo@akornsys-rdi.net>
 
+Alumnos de Centro de Formación Padre Piquer:
+
+-   C, Duanju  
+-   D, Diego
+
+
